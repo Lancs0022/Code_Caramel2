@@ -198,7 +198,8 @@ function ScrollytellingScrapbook() {
             {/* Caption */}
             <div style={{ position: 'absolute', bottom: 40, left: '50%', transform: 'translateX(-50%)', textAlign: 'center' }}>
               <p className="font-script" style={{ color: 'rgba(255,249,240,0.9)', fontSize: 'clamp(1.6rem, 4vw, 2.4rem)', margin: '0 0 8px', textShadow: '0 2px 20px rgba(0,0,0,0.3)' }}>
-                Parfois, une belle image suffit à créer une ambiance.
+                Et puis, parce qu'aujourd'hui est une journée un peu spéciale... <br />
+                Une petite touche de magie ne fait jamais de mal.
               </p>
               <p className="font-ui" style={{ color: 'rgba(247,197,110,0.7)', fontSize: '0.65rem', letterSpacing: '0.14em', textTransform: 'uppercase', margin: 0 }}>
                 Une vision artistique
