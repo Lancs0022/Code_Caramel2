@@ -1,0 +1,10 @@
+{
+  "description": "Create immersive, interactive storytelling experiences with dynamic animations, audio integration, and personalized content for special occasions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
