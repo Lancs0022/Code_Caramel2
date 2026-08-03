@@ -1,13 +1,19 @@
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect } from 'react'
 import IntroSequence from './components/IntroSequence'
 import FlashbangTransition from './components/FlashbangTransition'
 import Phase2 from './components/Phase2'
+import { preloadAllPhotos } from './utils/preloadImages'
 
 type Phase = 'intro' | 'transitioning' | 'main'
 
 export default function App() {
   const [phase, setPhase] = useState<Phase>('intro')
   const [flashOrigin, setFlashOrigin] = useState({ x: 50, y: 50 })
+
+  useEffect(() => {
+    // Déclenche le préchargement progressif des photos dès l'intro (Phase 1)
+    preloadAllPhotos(2)
+  }, [])
 
   const handleReveal = useCallback((origin: { x: number; y: number }) => {
     setFlashOrigin(origin)
