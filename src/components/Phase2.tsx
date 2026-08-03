@@ -127,7 +127,7 @@ function ScrollytellingScrapbook() {
         </h2>
         <p className="font-serif" style={{ color: 'var(--brown)', lineHeight: 1.85, fontSize: '0.95rem', maxWidth: 540, margin: '0 auto' }}>
           Parce qu'aujourd'hui, j'avais envie de prendre un petit moment pour célébrer la personne derrière tout ça.<br /><br />
-          Une personne très souriante, rayonnante, douce... bref, tout ce qui fait ton petit univers à toi.<br /><br />
+          Une personne très souriante, rayonnante, douce... bref, une personne vraiment incroyable.<br /><br />
           Alors autant profiter de cette journée pour mettre quelques images de toi à l'honneur.<br /><br />
           Après tout, aujourd'hui, tu as officiellement le droit de prendre toute la place.
         </p>
