@@ -91,7 +91,7 @@ function HeroSection() {
               Alors, pour une fois...<br />
               Mets le reste du monde sur pause pendant quelques minutes.<br /><br />
               Aujourd'hui, c'est toi la vedette.<br /><br />
-              Et promis, tu peux profiter de ton moment sans avoir à présenter de discours ni à recevoir une médaille.
+              Profite bien de ma petite création. C'est tout à ton honneur !
             </p>
           </div>
         ))}
@@ -123,17 +123,13 @@ function ScrollytellingScrapbook() {
       {/* Intro text */}
       <div ref={textRef} style={{ textAlign: 'center', padding: '0 24px', marginBottom: 72, opacity: textInView ? 1 : 0, transform: textInView ? 'none' : 'translateY(24px)', transition: 'opacity 0.9s ease, transform 0.9s ease' }}>
         <h2 className="font-display" style={{ fontSize: 'clamp(1.8rem, 4vw, 2.8rem)', fontStyle: 'italic', color: 'var(--brown)', margin: '0 0 14px' }}>
-          Quelques images...
+          Une petite parenthèse rien que pour toi.
         </h2>
-        <p className="font-serif" style={{ color: 'var(--brown-light)', fontStyle: 'italic', fontSize: '0.95rem', margin: '0 0 20px' }}>
-          Pas pour raconter une histoire. Juste pour créer une petite ambiance.
-        </p>
         <p className="font-serif" style={{ color: 'var(--brown)', lineHeight: 1.85, fontSize: '0.95rem', maxWidth: 540, margin: '0 auto' }}>
-          Parce qu'aujourd'hui, il n'y a pas besoin de beaucoup de choses.<br /><br />
-          Quelques images. Une jolie ambiance. Et une bonne raison de sourire.<br /><br />
-          Alors autant prendre quelques instants pour profiter du moment.<br /><br />
-          Après tout, c'est ton anniversaire.<br />
-          Tu as officiellement le droit de prendre toute la place aujourd'hui.
+          Parce qu'aujourd'hui, j'avais envie de prendre un petit moment pour célébrer la personne derrière tout ça.<br /><br />
+          Une personne très souriante, rayonnante, douce... bref, tout ce qui fait ton petit univers à toi.<br /><br />
+          Alors autant profiter de cette journée pour mettre quelques images de toi à l'honneur.<br /><br />
+          Après tout, aujourd'hui, tu as officiellement le droit de prendre toute la place.
         </p>
       </div>
 
@@ -237,7 +233,7 @@ function LetterContent() {
     },
     {
       heading: "La première fois que je t'ai vue",
-      body: `Je me souviens encore de la première fois où je t'ai vue.\n\nC'était pendant notre examen de commerce en L1.\n\nComme il s'agissait de télé-enseignement, c'était aussi l'une des premières fois où je rencontrais réellement tout le monde.\n\nEt puis je t'ai vue...\n\nEt je savais qu'on allait bien nous entendre, tous les deux.\n\nJe ne saurais même pas expliquer pourquoi.\n\nC'était juste une impression.\n\nEt puis, histoire de ne pas arranger les choses, penser à toi m'a distrait pendant tout l'examen.\n\nVoilà.\n\nTrès pratique pour rester concentré.`,
+      body: `Je me souviens encore de la première fois où je t'ai vue.\n\nC'était pendant notre examen de commerce en L1.\n\nC'était aussi l'une des premières fois où je rencontrais réellement tout le monde.\n\nEt puis je t'ai vue...\n\nEt je savais qu'on allait bien nous entendre, tous les deux.\n\nJe ne saurais même pas expliquer pourquoi.\n\nC'était juste une impression.\n\nEt puis, histoire de ne pas arranger les choses, penser à toi m'a distrait pendant tout l'examen.\n\nVoilà.\n\nTrès pratique pour rester concentré.`,
     },
     {
       heading: "Ce que j'apprécie particulièrement chez toi",
