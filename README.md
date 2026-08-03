@@ -163,18 +163,6 @@ Mobile first, optimisé pour appareils modestes.
 
 ---
 
-## Roadmap
-
-- [x] **Batch 1 — Foundations** : structure projet, design system, fonts, FontAwesome, audio controller
-- [x] **Batch 2 — Intro** : IntroSequence, FlashbangTransition
-- [ ] **Batch 3 — Phase 2** : Hero, Scrapbook Scrollytelling, collages
-- [ ] **Batch 4 — Lettre** : InteractiveEnvelope, LetterContent
-- [ ] **Batch 5 — Vœux** : WishesGrid, FakeEndSection
-- [ ] **Batch 6 — Phase 3** : SecretAlbum, œuvres IA, GrandFinale
-- [ ] **Batch 7 — Polish** : responsive, QA mobile/desktop, accessibilité, reduced motion, nettoyage code
-
----
-
 ## Développement
 
 ```bash
@@ -193,18 +181,3 @@ pnpm preview
 # Formatage
 pnpm run format
 ```
-
----
-
-## Statut
-
-Projet en développement actif. Phase 1 et transition Flashbang en place, Phase 2 amorcée avec le Hero.
-
-**Prochaines étapes :**
-1. Finaliser le Scrapbook Scrollytelling
-2. Préparer et optimiser les photos, créer les collages
-3. Finaliser la lettre interactive
-4. Ajouter Vœux + Fausse fin
-5. Construire la Phase 3 (Album secret)
-6. Intégrer les œuvres IA
-7. Finaliser la célébration et polir l'ensemble
