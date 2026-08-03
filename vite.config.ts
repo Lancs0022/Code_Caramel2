@@ -81,9 +81,9 @@ function figmaSiteConfiguration(config: FigmaSiteConfiguration): Plugin {
     return html.replace(`<!-- ${slotName} -->`, content)
   }
 
-  const title = config.title ?? "Joyeux Anniversaire Caramel !"
+  const title = config.title ?? "Caramel's birthday !"
   const description = config.description ?? 'Un cadeau particulier de la part de Lancs :)'
-  const favicon = config.icons?.icon ?? ''
+  const favicon = config.icons?.icon ?? '/favicon.ico'
   const socialImage = config.openGraph?.image ?? ''
   const language = sanitizeHtmlValue(config.language) || 'en'
   const googleAnalyticsId = sanitizeHtmlValue(config.analytics?.googleAnalyticsId)
