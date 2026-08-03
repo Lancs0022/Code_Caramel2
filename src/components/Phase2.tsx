@@ -237,7 +237,7 @@ function LetterContent() {
       body: `Je me souviens encore de la première fois où je t'ai vue.\n\nC'était pendant notre examen en L1.\n\nC'était aussi l'une des premières fois où je rencontrais réellement tout le monde.\n\nEt puis je t'ai vue...\n\nEt je savais qu'on allait bien nous entendre, tous les deux.\n\nJe ne saurais même pas expliquer pourquoi.\n\nC'était juste une impression.\n\nEt puis, histoire de ne pas arranger les choses, penser à toi m'a distrait pendant tout l'examen.\n\nVoilà.\n\nTrès pratique pour rester concentré.`,
     },
     {
-      heading: "Ce que j'apprécie particulièrement chez toi",
+      heading: "Ce qu'on apprécie naturellement chez toi",
       body: `Je crois que la première chose qui captive chez toi, c'est ton sourire.\n\nUn sourire vraiment éclatant.\n\nLe genre de sourire qui attire naturellement l'attention sans même essayer.\n\nEt puis il y a cette impression d'innocence, de douceur et de gentillesse que tu dégages.\n\nAvec, en plus, ce petit côté drôle qui apparaît parfois quand on s'y attend le moins.\n\nBref...\n\nTu as ce petit mélange bien à toi.\n\nDouce. Gentille. Drôle.\n\nAvec ce sourire qui fait son petit travail tranquillement.\n\nEt plus je te connais, plus j'apprécie simplement ta manière d'être.\n\nTa façon de parler. Ta façon de rire. Ta manière de voir certaines choses.\n\nCe petit mélange de personnalité qui fait que tu es simplement...\n\nToi.\n\nEt je pense que c'est ça que j'apprécie particulièrement chez toi.\n\nTu as quelque chose de naturel.\n\nQuelque chose qui ne donne pas l'impression d'être forcé.\n\nEt même sans essayer, tu es le genre de personne qui laisse une impression.`,
     },
     {
