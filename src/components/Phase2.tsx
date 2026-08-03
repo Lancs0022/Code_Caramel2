@@ -233,7 +233,7 @@ function LetterContent() {
     },
     {
       heading: "La première fois que je t'ai vue",
-      body: `Je me souviens encore de la première fois où je t'ai vue.\n\nC'était pendant notre examen de commerce en L1.\n\nC'était aussi l'une des premières fois où je rencontrais réellement tout le monde.\n\nEt puis je t'ai vue...\n\nEt je savais qu'on allait bien nous entendre, tous les deux.\n\nJe ne saurais même pas expliquer pourquoi.\n\nC'était juste une impression.\n\nEt puis, histoire de ne pas arranger les choses, penser à toi m'a distrait pendant tout l'examen.\n\nVoilà.\n\nTrès pratique pour rester concentré.`,
+      body: `Je me souviens encore de la première fois où je t'ai vue.\n\nC'était pendant notre examen en L1.\n\nC'était aussi l'une des premières fois où je rencontrais réellement tout le monde.\n\nEt puis je t'ai vue...\n\nEt je savais qu'on allait bien nous entendre, tous les deux.\n\nJe ne saurais même pas expliquer pourquoi.\n\nC'était juste une impression.\n\nEt puis, histoire de ne pas arranger les choses, penser à toi m'a distrait pendant tout l'examen.\n\nVoilà.\n\nTrès pratique pour rester concentré.`,
     },
     {
       heading: "Ce que j'apprécie particulièrement chez toi",
